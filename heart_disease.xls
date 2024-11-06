@@ -1,0 +1,6 @@
+Age,RestingBP,FastingBS,Sex,ExerciseAngina,HeartDisease,RestingECG,MaxHR,Cholesterol
+45,130,1,M,N,1,Normal,150,220
+54,140,0,F,Y,0,ST,130,180
+63,120,1,M,Y,1,LVH,145,260
+39,135,0,F,N,0,Normal,170,210
+57,145,1,M,Y,1,ST,140,250
